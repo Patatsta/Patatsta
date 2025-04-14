@@ -13,7 +13,7 @@ My focus lies in gameplay programming, game design, and crafting unique visual s
 - [💼 LinkedIn](https://www.linkedin.com/in/patrick-kienzler)
 - [🎮 itch.io](https://patatsta.itch.io/)
 - [🌍 Portfolio Website](https://www.linkedin.com/in/patrick-kienzler-developer/)
-
+- ✍️ [Devlog](https://medium.com/@patrickkienzler2110)
 ---
 
 Thanks for stopping by! ✨
