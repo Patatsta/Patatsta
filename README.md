@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Patrick Kienzler 👋
 
-<!--
-**Patatsta/Patatsta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Game Developer who loves creating fun, fast-paced experiences with Unity and C#.  
+My focus lies in gameplay programming, game design, and crafting unique visual styles for indie projects.
 
-Here are some ideas to get you started:
+🎮 I design and develop games with attention to detail, flow, and player experience.  
+🛠️ From 3D modeling and pixel art to sound design and level building — I enjoy the full creative process.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌐 Find me here:
+
+- [💼 LinkedIn](https://www.linkedin.com/in/patrick-kienzler)
+- [🎮 itch.io](https://patatsta.itch.io/)
+- [🌍 Portfolio Website](https://www.linkedin.com/in/patrick-kienzler-developer/)
+
+---
+
+Thanks for stopping by! ✨
