@@ -34,19 +34,19 @@ A short interactive space pilot experience with cutscenes.
 
 ### 🍞 Bake'n'Break  
 A roguelike about a baker fighting with baked weapons.  
-![Bake'n'Break](https://github.com/user-attachments/assets/8ece67ed-679c-4fe0-ad3e-55e1cd1d0a8f)
+![Bake'n'Break](https://github.com/user-attachments/assets/c8e143c7-d6cf-487a-8b76-dba676080520)
 
 ---
 
 ### 🧙‍♂️ BattleMage  
 Top-down fantasy game using elemental magic combat.  
-![BattleMage](https://github.com/user-attachments/assets/1f3760f5-9539-4309-8187-32a8552a329b)
+![BattleMage](https://github.com/user-attachments/assets/be465d7c-e43c-4176-bc40-af64eafee377)
 
 ---
 
 ### 🪴 Space Plant  
 Platformer with plant enemies and projectile shooting.  
-![Space Plant](https://github.com/user-attachments/assets/15203707-90f4-4c8a-99fb-d3b1870d614d)
+![Space Plant](https://github.com/user-attachments/assets/9eda27b3-84f4-4007-bd9b-2b5d77830e67)
 
 ---
 
